@@ -1,5 +1,5 @@
-<h1 align="center"> Hey there! This is Priyanshu Gupta</h1>
-
+<h1 align="center">Hey there!</h1>
+<h2 align="center">This is Priyanshu Gupta</h1
 
 
 <h3 align="left">Languages and Tools:</h3>
