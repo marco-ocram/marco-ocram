@@ -20,7 +20,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png" alt="manjaro" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" alt="parrot" width="40" height="40">
   <img src="https://img.icons8.com/color/452/kali-linux.png" alt="kali linux" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png" alt="manjaro" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Manjaro-logo.svg/1200px-Manjaro-logo.svg.png" alt="manjaro" width="40" height="40">
   
 </p>
